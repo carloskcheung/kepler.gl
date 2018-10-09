@@ -2,6 +2,8 @@
 
 [![FOSSA Status](https://app.fossa.io/api/projects/custom%2B4458%2Fgithub.com%2Fcarloskcheung%2Fkepler.gl.svg?type=shield)](https://app.fossa.io/projects/custom%2B4458%2Fgithub.com%2Fcarloskcheung%2Fkepler.gl?ref=badge_shield)
 
+# License
+
 [![FOSSA Status](https://app.fossa.io/api/projects/custom%2B4458%2Fgithub.com%2Fcarloskcheung%2Fkepler.gl.svg?type=large)](https://app.fossa.io/projects/custom%2B4458%2Fgithub.com%2Fcarloskcheung%2Fkepler.gl?ref=badge_large)
 
 [kepler.gl](http://www.kepler.gl/) is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets. Built on top of [deck.gl](http://uber.github.io/deck.gl/#/), kepler.gl can render millions of points representing thousands of trips and perform spatial aggregations on the fly.
