@@ -2,7 +2,7 @@
 
 [![FOSSA Status](https://app.fossa.io/api/projects/custom%2B4458%2Fgithub.com%2Fcarloskcheung%2Fkepler.gl.svg?type=shield)](https://app.fossa.io/projects/custom%2B4458%2Fgithub.com%2Fcarloskcheung%2Fkepler.gl?ref=badge_shield)
 
-# License
+# License FOSSA
 
 [![FOSSA Status](https://app.fossa.io/api/projects/custom%2B4458%2Fgithub.com%2Fcarloskcheung%2Fkepler.gl.svg?type=large)](https://app.fossa.io/projects/custom%2B4458%2Fgithub.com%2Fcarloskcheung%2Fkepler.gl?ref=badge_large)
 
