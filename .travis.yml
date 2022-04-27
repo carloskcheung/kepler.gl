@@ -11,5 +11,5 @@ before_script:
 script:
   - npm run lint
   - npm run test
-  - fossa
+  - fossa analyze
 cache: yarn
